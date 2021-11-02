@@ -1,0 +1,13 @@
+{
+    "bufLen": 20,
+    "windowSize": 10,
+    "globalTimer": 10,
+    "packetSize": 10024,
+    "reTransCount": 3,
+    "serverIpAddr": "127.0.0.1",
+    "serverPortNo": 50125,
+    "clientIpAddr": "127.0.0.1",
+    "clientPortNo": 50126,
+    "reqFileName": "test.txt",
+    "reTransTime": 0.5
+}
